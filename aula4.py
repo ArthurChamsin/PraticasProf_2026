@@ -1,0 +1,1 @@
+print("após o primeiro commit no vs code")
